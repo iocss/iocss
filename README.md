@@ -2,10 +2,10 @@
 
 A front-end methodology for robust/flexible/scalable HTML/CSS/JavaScript.
 
-**IOCSS** stands for:
+**IOCSS** is named by:
 
-* **I**nterface-**O**bject-**C**omponent application for HTML/CSS
-* **I**nput to **O**utput
+* **I**nterface, **O**bject, **C**omponent, **C**lass, **CSS**
+* **I**nput, **O**utput
 
 ## WIP in Wiki
 
