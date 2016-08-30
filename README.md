@@ -9,4 +9,4 @@ A front-end methodology for robust/flexible/scalable HTML/CSS/JavaScript.
 
 ## WIP in Wiki
 
-* [GitHub · Where software is built](https://github.com/iocss/iocss/wiki)
+* [IOCSS](https://github.com/iocss/iocss/wiki)
